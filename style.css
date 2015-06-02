@@ -1,0 +1,19 @@
+.container{
+	width:50%;
+	margin:auto;
+	font-family: sans-serif;
+	font-size:3em;
+	background-color:#c6c6c6;
+	border-radius: 5px;
+	padding:1em;
+}
+#saveEdit{
+	width:30%;
+	padding:0.5em;
+	color:#ffffff;
+	background-color:#3442ff;
+	border-radius:5px;
+}
+.editable{
+	color:#b60707;
+}
